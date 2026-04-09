@@ -37,4 +37,4 @@ aws configure
 python pipeline/deploy_pipeline.py --pipeline-name ml-automation-pipeline
 python pipeline/run_pipeline.py --pipeline-name ml-automation-pipeline
 
-Venkatesh Kokkera · LinkedIn · Email
+Venkatesh Kokkera ·📧 vkokkeravk@gmail.com · 💼 LinkedIn:https://www.linkedin.com/in/venkatesh-ko/ · 📞 +1 (203) 479-2974 . 📍 Lowell, MA 
